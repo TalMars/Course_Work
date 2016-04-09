@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\talmars\documents\visual studio 2013\projects\universmotri_wp8.1\universmotri_wp8.1\obj\debug\intermediatexaml\universmotri_wp8.1.exe" HashGuid="0d85c216-eb43-392e-48cb-62ab085b2c15" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.playerframework.xaml.wp81\3.0.0.4\references\commonconfiguration\neutral\microsoft.playerframework.dll" HashGuid="2952eb76-a585-9fe4-80b2-385cfa72b102" />
+    <ReferenceAssembly PathName="c:\users\talmars\desktop\phonesm-1.5.3-beta\packages\autofac.3.5.2\lib\portable-net4+sl5+netcore45+wpa81+wp8+monoandroid1+monotouch1\autofac.dll" HashGuid="1cb0ce22-b02a-b00a-4e94-c1bdda12d7f7" />
+    <ReferenceAssembly PathName="c:\users\talmars\documents\visual studio 2013\projects\universmotri_wp8.1\packages\htmlagilitypack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+monoandroid+monotouch\htmlagilitypack.dll" HashGuid="365e4636-8cbf-8d2d-3790-d3267e801443" />
+    <ReferenceAssembly PathName="c:\users\talmars\documents\visual studio 2013\projects\universmotri_wp8.1\packages\mytoolkit.2.5.11.0\lib\portable-net45+wp8+win8+wpa81\mytoolkit.dll" HashGuid="f5dbb0e0-ffed-c8ab-73ed-0bace70368dd" />
+    <ReferenceAssembly PathName="c:\users\talmars\documents\visual studio 2013\projects\universmotri_wp8.1\packages\mytoolkit.extended.2.5.11.0\lib\portable-wpa81+win8\mytoolkit.extended.dll" HashGuid="b153d7b4-1095-2f16-b05a-ebae6f3b7f78" />
+    <ReferenceAssembly PathName="c:\users\talmars\documents\visual studio 2013\projects\universmotri_wp8.1\radioplayer\bin\debug\radioplayer.winmd" HashGuid="7d49bfa8-ea90-0e60-6f09-8cd9a035c392" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\phonesm\bin\debug\sm.media.builder.dll" HashGuid="ec00e91d-872d-a94e-ded2-c0de1cda42ed" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\phonesm\bin\debug\sm.media.dll" HashGuid="2c76379a-a1fd-4a91-3412-782eb2de9a9e" />
+    <ReferenceAssembly PathName="c:\users\talmars\desktop\phonesm-1.5.3-beta\libraries\sm.media.mediaplayer.wp81\bin\debug\sm.media.mediaplayer.wp81.dll" HashGuid="86df6960-d68a-4042-31d2-6e85e0300a91" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\phonesm\bin\debug\winrt\sm.media.platform.winrt.dll" HashGuid="e1cb433d-a2b3-44a9-3e8c-c4c649657e78" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

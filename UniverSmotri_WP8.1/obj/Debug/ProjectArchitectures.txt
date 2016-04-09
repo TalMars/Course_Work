@@ -1,0 +1,3 @@
+C:\Users\TalMars\Desktop\phonesm-1.5.3-beta\Libraries\SM.Media.MediaPlayer.WP81\SM.Media.MediaPlayer.WP81.csproj;neutral
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\RadioPlayer\RadioPlayer.csproj;neutral
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\UniverSmotri_WP8.1.csproj;neutral

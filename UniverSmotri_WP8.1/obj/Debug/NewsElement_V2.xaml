@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="UniverSmotri_WP8._1.NewsElement_V2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UniverSmotri_WP8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:mmppf="using:Microsoft.PlayerFramework"
+    xmlns:smmedia="using:SM.Media.MediaPlayer"
+    
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Name="GridContent" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="320" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <!--Foreground="#FF0097C3" PosterSource="Assets/Logo Universmotri v.2.0.png"-->
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Button x:ConnectionId='2'  Content="Назад"                    Foreground="#FF06CDCD" BorderBrush="#FF06CDCD" BorderThickness="1" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <TextBlock Name="HeaderNews" Grid.Row="1" Foreground="Black" Margin="10,10,10,10"
+                       TextAlignment="Center" FontSize="20" TextTrimming="CharacterEllipsis"
+                       FontFamily="Haettenschweiler" TextWrapping="Wrap" />
+
+        <mmppf:MediaPlayer x:ConnectionId='1' Name="playerYouTube" Grid.Row="2" IsFullWindow="False"
+                           AutoPlay="False" Margin="0,10,0,0"
+                                                                    >
+        </mmppf:MediaPlayer>
+
+        <TextBlock Name="DateNews" Grid.Row="3" Foreground="#FFBBBBBB" Margin="0,5,10,0" HorizontalAlignment="Right" FontSize="14" FontFamily="Haettenschweiler" />
+        <TextBlock Name="DescrNews" Grid.Row="4" Foreground="Black" Margin="10,5,10,10" TextWrapping="Wrap" FontSize="16" FontFamily="Haettenschweiler" />
+    </Grid>
+</Page>
+

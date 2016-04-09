@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="UniverSmotri_WP8._1.NewsSelect"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UniverSmotri_WP8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" VerticalAlignment="Top">
+            <Button Content="Назад" BorderBrush="#FF06CDCD" BorderThickness="1" Foreground="#FF06CDCD" Margin="10,0,0,0" Click="Back_Click" />
+        </StackPanel>
+        
+        <ListView Name="ListSelectNews" Grid.Row="1" Margin="10,30,10,0" SelectionChanged="ListView_SelectionChanged">
+            <ListView.Items>
+                <!--<Border BorderBrush="Aqua" BorderThickness="0,1,0,1">-->
+                    <TextBlock Text="Все новости" TextAlignment="Center" Foreground="Black"  FontSize="28" Margin="0,15" Width="380"  />
+                <!--</Border>-->
+                <TextBlock Text="Обзоры новостей" TextAlignment="Center" Foreground="Black" Margin="0,15" Width="380" FontSize="28"/>
+                <TextBlock Text="Новости ректората" TextAlignment="Center"  Foreground="Black" Margin="0,15" Width="380" FontSize="28"/>
+                <TextBlock Text="Общество и культура" TextAlignment="Center"  Foreground="Black" Margin="0,15" Width="380" FontSize="28"/>
+                <TextBlock Text="Образование и наука" TextAlignment="Center"  Foreground="Black" Margin="0,15" Width="380" FontSize="28"/>
+                <TextBlock Text="Спорт" TextAlignment="Center"  Foreground="Black" Margin="0,15" Width="380" FontSize="28"/>
+            </ListView.Items>
+        </ListView>
+    </Grid>
+</Page>

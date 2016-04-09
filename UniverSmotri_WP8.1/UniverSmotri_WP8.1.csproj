@@ -182,6 +182,10 @@
     <Reference Include="SM.Media.Builder">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\phonesm\bin\Debug\SM.Media.Builder.dll</HintPath>
     </Reference>
+    <Reference Include="SM.Media.MediaPlayer.WP81, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\phonesm-1.5.3-beta\Libraries\SM.Media.MediaPlayer.WP81\bin\Debug\SM.Media.MediaPlayer.WP81.dll</HintPath>
+    </Reference>
     <Reference Include="SM.Media.Platform.WinRT">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\phonesm\bin\Debug\WinRT\SM.Media.Platform.WinRT.dll</HintPath>
     </Reference>
@@ -195,10 +199,6 @@
     </SDKReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Desktop\phonesm-1.5.3-beta\Libraries\SM.Media.MediaPlayer.WP81\SM.Media.MediaPlayer.WP81.csproj">
-      <Project>{0e64c570-7e84-45e2-a2ac-75ae3c529ff2}</Project>
-      <Name>SM.Media.MediaPlayer.WP81</Name>
-    </ProjectReference>
     <ProjectReference Include="..\RadioPlayer\RadioPlayer.csproj">
       <Project>{adde09e7-b976-4e17-a12e-5c7c62912fc4}</Project>
       <Name>RadioPlayer</Name>

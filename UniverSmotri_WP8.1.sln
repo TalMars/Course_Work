@@ -5,10 +5,6 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniverSmotri_WP8.1", "UniverSmotri_WP8.1\UniverSmotri_WP8.1.csproj", "{C2743E42-0A7A-47AE-9B04-2F76FAFB170A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhoneSM", "PhoneSM", "{D244C254-9330-4C64-B03B-FE347502356B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM.Media.MediaPlayer.WP81", "..\..\..\..\Desktop\phonesm-1.5.3-beta\Libraries\SM.Media.MediaPlayer.WP81\SM.Media.MediaPlayer.WP81.csproj", "{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioPlayer", "RadioPlayer\RadioPlayer.csproj", "{ADDE09E7-B976-4E17-A12E-5C7C62912FC4}"
 EndProject
 Global
@@ -39,14 +35,6 @@ Global
 		{C2743E42-0A7A-47AE-9B04-2F76FAFB170A}.Release|x86.ActiveCfg = Release|x86
 		{C2743E42-0A7A-47AE-9B04-2F76FAFB170A}.Release|x86.Build.0 = Release|x86
 		{C2743E42-0A7A-47AE-9B04-2F76FAFB170A}.Release|x86.Deploy.0 = Release|x86
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}.Debug|ARM.ActiveCfg = Debug|Any CPU
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}.Release|ARM.ActiveCfg = Release|Any CPU
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2}.Release|x86.ActiveCfg = Release|Any CPU
 		{ADDE09E7-B976-4E17-A12E-5C7C62912FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADDE09E7-B976-4E17-A12E-5C7C62912FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADDE09E7-B976-4E17-A12E-5C7C62912FC4}.Debug|ARM.ActiveCfg = Debug|ARM
@@ -62,8 +50,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{0E64C570-7E84-45E2-A2AC-75AE3C529FF2} = {D244C254-9330-4C64-B03B-FE347502356B}
 	EndGlobalSection
 EndGlobal

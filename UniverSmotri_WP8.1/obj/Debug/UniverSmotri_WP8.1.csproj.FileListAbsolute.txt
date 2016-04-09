@@ -121,3 +121,12 @@ C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\Univer
 C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\SettingsPage.xaml
 C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\SettingsPage.xbf
 C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\bin\Debug\SettingsPage.xbf
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\SM.Media.MediaPlayer.WP81.pri.xml
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\Autofac\layout.resfiles
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\Autofac\layout.resfiles.intermediate
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\Autofac\Resources.resfiles
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\Autofac\Resources.resfiles.intermediate
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\Autofac\pri.resfiles
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\Autofac\pri.resfiles.intermediate
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\Autofac\priconfig.xml
+C:\Users\TalMars\documents\visual studio 2013\Projects\UniverSmotri_WP8.1\UniverSmotri_WP8.1\obj\Debug\Autofac\priconfig.xml.intermediate
